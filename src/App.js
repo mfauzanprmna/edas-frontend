@@ -10,7 +10,9 @@ const staticCriteria = [
   {name: 'Jumlah Kelompok UKT', type: 'number' },
   {name: 'Jarak', type: 'number' },
   {name: 'Kerjasama Internasional', type:'number' },
-  {name: 'Jumlah Ekstrakurikuler', type: 'number' }
+  {name: 'Jumlah Ekstrakurikuler', type: 'number' },
+  {name: 'Jumlah Dosen', type: 'number' },
+  {name: 'Jumlah Mahasiswa', type: 'number' },
 ];
 
 const App = () => {
